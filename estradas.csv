@@ -1,0 +1,28 @@
+origem,destino,distancia_km
+Luanda,Caxito,66
+Luanda,Catete,78
+Luanda,Sumbe,354
+Catete,N'dalatando,189
+Caxito,Uíge,222
+Caxito,Mbanza Kongo,322
+Uíge,Mbanza Kongo,232
+Uíge,N'dalatando,248
+N'dalatando,Malanje,220
+N'dalatando,Huambo,522
+Malanje,Saurimo,608
+Malanje,Dundo,758
+Malanje,Cuíto,259
+Saurimo,Dundo,355
+Saurimo,Luena,320
+Luena,Cazombo,397
+Luena,Cuíto,441
+Cuíto,Huambo,162
+Cuíto,Menongue,369
+Huambo,Benguela,327
+Huambo,Lubango,474
+Benguela,Sumbe,217
+Benguela,Lubango,352
+Lubango,Moçâmedes,179
+Lubango,Ondjiva,415
+Lubango,Menongue,652
+Menongue,Mavinga,448
